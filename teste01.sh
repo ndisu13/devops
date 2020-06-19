@@ -1,1 +1,1 @@
-#criando nosso primeiro script em shell
+# teste de versionamento utilizando o git
